@@ -1,0 +1,279 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+nav {
+    background-color: #C12127;
+    color: rgba(255, 255, 255, 0.8);
+    padding-top: 15px;
+    height: 30px;
+    padding-left: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.top-links {
+    display: inline-block;
+    float: right;
+    padding-top: 07px;
+    margin-top: -25px;
+    padding-right: 15px;
+    word-spacing: 30px;
+    
+}
+
+.top-left {
+    padding-left: 10px;
+}
+
+.top-links li {
+    display: inline-block;
+    margin-inline: 50px;
+}
+
+header {
+    margin-top: 0px;
+    background-image: url("img/city-scape.svg");
+    height: 500px;
+}
+
+.container-1 {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-1 h3 {
+    width: 600px;
+}
+
+.login {
+    padding-left: 10px;
+    
+}
+
+
+.Search-box {
+    height: 40px;
+    width: 600px;
+    background-color: black;
+    opacity: .2;
+    color: #fff;
+    font-size: 1.2em;
+    padding-left: 80px;
+
+}
+
+.logo {
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+
+.bear {
+    padding-right: 200px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+.top-search {
+    display: inline-block;  
+
+}
+
+
+
+.header1 {
+    width: 900px;
+    padding-left: 000px;
+    
+}
+
+p {
+    color: black;
+}
+
+h2 {
+    color: white;
+    font-size: 2.25em;
+
+
+}
+
+
+h3 {
+    color: white;
+    font-size: 1.2em;
+
+}
+
+h4 {
+    color: black;
+    font-size: 1.2em;
+}
+
+h5 {
+    color: black;
+    font-size: 1em;
+}
+
+h6 {
+    color: black;
+    font-size: 0.7em;
+}
+
+
+.link-btn {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    color: #fff;
+    display: block;
+    font-family: 'Roboto Condensed';
+    font-size: 1.2em;
+    letter-spacing: 0.5px;
+    margin: 10px auto 0;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    float: left;
+}
+
+.link-btn-0 {
+    background-color: rgb(240, 146, 51);
+
+}
+
+
+
+
+
+
+.section-1 {
+    background-color: rgb(39, 53, 71);
+    height: 500px;
+    padding-top: 10px;
+
+
+}
+
+.innersection {
+    margin: 0 auto 0 auto;
+    margin: 0 auto;
+    width: 1000px;
+    
+}
+
+.imgS1 {
+    height: 200px;
+    float: left;
+    margin-left: 250px;
+    margin-right: 150px;
+    padding-top: 100px;
+}
+
+.container-2 {
+    margin-left: 700px;
+   
+
+}
+
+.header2 {
+    padding-top: 100px;
+}
+
+.benefits-list {
+    padding-left: 30px;
+    padding-top: 10px;
+    line-height: 40px;
+
+}
+
+.benefits-list li {
+    color: rgb(255, 255, 255);
+    font-size: 1.1em;
+
+}
+
+.link-btn-1 {
+    background-color: rgb(203, 56, 55);
+}
+
+.subCTA {
+    padding-right: 800px;
+       
+    }
+
+
+
+
+.section2 {
+    background-image: url("img/forklift.svg");
+    height: 500px;
+}
+
+
+.container3 {
+    padding-left: 200px;
+    padding-top: 100px;
+    padding-right: 700px;
+}
+
+.link-btn-2 {
+    background-color: rgb(49, 68, 88);
+}
+
+.container4 {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header4 {
+    padding-left: 210px;
+    padding-right: 200px;
+}
+
+.subheader4 {
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
+
+#section3 .text {
+    font-size: 1.2em;
+    font-weight: 100;
+    margin: 20px 00px;
+    text-align: center;
+    
+}
+
+#section3 .columns-icons {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+
+
+.columns-icons {
+    width: 33%;
+    float: right;
+    
+}
+
+.link {
+color:rgb(208, 74, 73)
+
+}
+
